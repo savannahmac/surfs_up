@@ -12,6 +12,9 @@ In order to ensure that the weather on Oahu will support a successful shop, we s
 - 3. Additionally, the minimum temperature recorded in June is 64 degrees. At this temperature, surfers will be able to surf all day with a simple full-body wetsuit. The maximum temperature is 85 degrees. Surfers may not need a wetsuit on these hotter June days, but they will still be comfortable in the water.
 -- The full temperature range in June should be comfortable for surfers. This ensures that the surf shop will have heavy traffic throughout June. 
 
+![June Temps Summary Statistics](https://user-images.githubusercontent.com/93888037/155859024-e09b311e-82b3-49a6-aacc-9754dd7e1138.png)
+
+
 ### December
 - 1. From 2010 to 2017, there were 1517 temperature readings recorded in the month of Decemeber. This should provide us ample material to analyze the December weather.
 - 2. The average December temperature was approximately 71 degress. Similarly to June, this average temperature is an excellent temperature for surfers. 
@@ -19,6 +22,8 @@ In order to ensure that the weather on Oahu will support a successful shop, we s
 - 3. The minimum temperature recorded in December is 56 degrees. This is not an ideal temperature for surfing. However, according to Men's Journal (source: https://www.mensjournal.com/sports/7-winter-surfing-tips-to-keep-you-from-freezing-to-death/7-start-warm-stay-warm/) there is a market for "Winter Surfing."
 -- On the 25% of the month where the temperature dips below 69 degrees, the surf shop may be able to profit off these adventure-seekers by offering deals on 4-6mm wetsuits to keep these surfers warm.
 -- Since 75% of the month sees temperatures over 69 degrees, the majority of December days should still be comfortable for most surfers. 
+
+![December Temps Summary Statistics](https://user-images.githubusercontent.com/93888037/155859035-b783f123-aec6-4ff1-9cd8-6fe7a23513a8.png)
 
 ## Summary 
 These initial data sets prove that there will be people surfing throughout the year on the island of Oahu. This ensures heavy traffic for the potential surf shop, and should encourage investors that this location could be ideal for this business venture.
